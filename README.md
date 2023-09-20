@@ -31,4 +31,4 @@ Throughout the project, we encountered various challenges, including issues with
 
 ### Usage
 
-The model is now ready for use. You can input custom sentences, and the classifier will provide you with toxicity level results. This project represents our journey from a basic machine learning approach to a more advanced and accurate model for assessing sentence toxicity.
+When inputting custom sentences, and the classifier provides the toxicity level results. This project represents our journey from a basic machine learning approach to a more advanced and accurate model for assessing sentence toxicity.
